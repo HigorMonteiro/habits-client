@@ -23,7 +23,7 @@ export function Header() {
           className="border-2 border-btn_border bg-btn  font-semibold rounded-lg px-6 py-4 flex items-center gap-3 hover:border-white"
         >
           <Plus size={20} className="text-white" />
-          Novo hábito
+          Novo hábitoooo
         </Dialog.Trigger>
 
         <Dialog.Portal>
